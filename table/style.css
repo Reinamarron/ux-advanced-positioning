@@ -1,1 +1,21 @@
 /* Add your CSS Below */
+* Add your CSS Below */
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    text-decoration-color: #edf4ef;
+    width: 100%;
+  }
+   th {
+    border: 1px solid #023c13;
+    text-align: center;
+    padding: 8px;
+    background-color: darkgreen;
+    text-decoration-color: darkgrey;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #edf4ef;
+  }
+  
