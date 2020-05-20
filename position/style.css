@@ -58,4 +58,19 @@ section div:nth-child(3) {
 }
 
 
+.one_box_b {
+    bottom:15px;
+    position:relative;
+    left:15px;
+}
 
+.two_box_c {
+    position:absolute;
+    left: 232px;
+    bottom:402px;
+}
+
+.three_box_a {
+    position: fixed;
+    left:1350px;
+}
